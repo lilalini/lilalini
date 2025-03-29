@@ -15,7 +15,7 @@ I'm studying **Application Development (DAW)** and diving deep into programming,
 I’m excited to collaborate on open-source projects, especially those related to **web development, programming, and music technology**. If you have an interesting project, let’s connect!
 
 ## 📫 **How to reach me**:
-You can reach me via **eugkosess@alu.edu.gva.es** or connect with me on **[LinkedIn](https://www.linkedin.com/in/yourprofile)**. I’m always open to new opportunities and collaborations.
+You can reach me via **eugkosess@alu.edu.gva.es**. I’m always open to new opportunities and collaborations.
 
 ## 😄 **Pronouns**:  
 She/Her (Ella).
